@@ -1,1 +1,17 @@
+header{
+    background-color: blue;
+    height: 8vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
 
+/* personalizzo il pulsante */
+button{
+    background-color:transparent;
+    color: white;
+    border: none;
+    font-size: ;
+    font-weight: bold;
+    font-family: monospace;
+}
