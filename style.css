@@ -41,3 +41,12 @@ h1, h3{
 .destra, .sinistra{
     width: 50%;
 }
+
+.immagine{
+    width: 100%;
+}
+
+.Mappa{
+    margin-left: 10%;
+    margin-top: 2cm;
+}
